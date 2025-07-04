@@ -1,2 +1,2 @@
 # csv-processing
-![Пример вывода скрипта](examples.png)
+![Пример вывода скрипта](examples.PNG)
